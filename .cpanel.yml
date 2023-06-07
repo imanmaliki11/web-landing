@@ -1,3 +1,4 @@
 ---
 deployment:
-      tasks:
+  tasks:
+    - export DEPLOYPATH=/home/web-landing/public_html/
